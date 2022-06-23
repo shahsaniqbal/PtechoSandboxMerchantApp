@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "51664431008",
+    "project_id": "ptecho-sandbox-payments",
+    "storage_bucket": "ptecho-sandbox-payments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51664431008:android:67494502319657985e66c5",
+        "android_client_info": {
+          "package_name": "com.ptechosandboxpaymentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51664431008-nvc2h88up2oer7hda8e4j5brg80cn5vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ptecho.sandboxpayments",
+            "certificate_hash": "5ef87d8910f914eb3be4bef031cc2d4251dfe4a3"
+          }
+        },
+        {
+          "client_id": "51664431008-ktgo071kksh69k6bo22d8800tv7i6dta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiFawCCNqItbTFiRk8iEN9UeX1wf0DzK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51664431008-ktgo071kksh69k6bo22d8800tv7i6dta.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51664431008-2olgnfsq03knr24m8vd1inbhcicfsn2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ptecho.sandboxpay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
